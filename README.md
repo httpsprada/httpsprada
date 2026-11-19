@@ -14,13 +14,13 @@ Trabalho com cibersegurança desde 2025, começando em operações de **SOC/NOC*
 
 > *"Não fuja. Não minta. Olhe para a frente."* — Rei Ayanami
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=dcefff&height=42&text=Atuacao&fontColor=6f8fab&fontSize=20&fontAlignY=60&width=230&section=header" alt="Atuacao"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=dcefff&height=42&text=Atuação&fontColor=6f8fab&fontSize=20&fontAlignY=60&width=230&section=header" alt="Atuacao"/>
 
 - **2026 – atual** · Analista de Cibersegurança — SOC
 - **2026** · Analista de Cibersegurança — firewalls Fortigate e Sophos, SIEM, análise de logs, resposta a incidentes, Acronis Cloud
 - **2025 – 2026** · Cybersecurity SOC/NOC — SIEM, análise de logs, resposta a incidentes de rede, firewalls Sophos
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=dcefff&height=42&text=Certificacoes&fontColor=6f8fab&fontSize=20&fontAlignY=60&width=230&section=header" alt="Certificacoes"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=dcefff&height=42&text=Certificações&fontColor=6f8fab&fontSize=20&fontAlignY=60&width=230&section=header" alt="Certificacoes"/>
 
 - SOC Member — LetsDefend
 - Sophos Firewall Architect — Sophos
