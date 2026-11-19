@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:eaf6ff,100:c7e6ff&height=200&section=header&text=Rafhs&fontSize=64&fontColor=6f8fab&animation=fadeIn&desc=Analista%20de%20Ciberseguranca%20%C2%B7%20SOC%20%C2%B7%20Blue%20Team&descSize=16&descColor=8aa6bf&descAlignY=62" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:eaf6ff,100:c7e6ff&height=230&section=header&text=Rafhs&fontSize=56&fontColor=6f8fab&fontAlignY=36&animation=fadeIn&desc=Analista%20de%20Ciberseguranca%20%C2%B7%20SOC%20%C2%B7%20Blue%20Team&descSize=16&descColor=8aa6bf&descAlignY=72" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1200&color=9CC4E4&center=true&vCenter=true&width=520&lines=SOC+%2F+NOC+Monitoring;SIEM+%26+Log+Analysis;Incident+Response;Vulnerability+Management" alt="typing"/>
 
