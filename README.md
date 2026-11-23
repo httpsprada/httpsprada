@@ -12,8 +12,6 @@
 
 Trabalho com cibersegurança desde 2025, começando em operações de **SOC/NOC** e hoje atuando como **Analista de Cibersegurança — SOC**. Foco em monitoramento de eventos de segurança (SIEM), análise de logs, resposta a incidentes e administração de firewalls.
 
-> *"Não fuja. Não minta. Olhe para a frente."* — Rei Ayanami
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=dcefff&height=42&text=Atuação&fontColor=6f8fab&fontSize=20&fontAlignY=60&width=230&section=header" alt="Atuacao"/>
 
 - **2026 – atual** · Analista de Cibersegurança — SOC
